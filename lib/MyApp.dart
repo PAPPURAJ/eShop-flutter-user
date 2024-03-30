@@ -201,7 +201,7 @@ class SignIn extends StatelessWidget {
                     ),
                   ],
                 ),
-                SizedBox(height: 20),
+                const SizedBox(height: 20),
                 myButton(context, "LOG IN", () {
                   _signInWithEmailAndPassword(context);
                 }, 0.9),

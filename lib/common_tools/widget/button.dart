@@ -12,7 +12,7 @@ Widget myButton(
       child: Text(
         text,
         style: TextStyle(
-          color: Colors.white,
+          color: Colors.green,
           fontWeight: FontWeight.bold,
         ),
       ),
@@ -32,7 +32,7 @@ Widget myRactanButton(BuildContext context, String text, Function function,
       child: Text(
         text,
         style: TextStyle(
-          color: Colors.white,
+          color: Colors.green,
           fontWeight: FontWeight.bold,
         ),
       ),

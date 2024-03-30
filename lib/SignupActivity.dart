@@ -5,7 +5,6 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:onlineshop/common_tools/common_tools.dart';
 import 'package:onlineshop/common_tools/widget/button.dart';
 import 'package:onlineshop/common_tools/widget/text_field.dart';
-import 'package:onlineshop/main.dart';
 
 import 'MyApp.dart';
 

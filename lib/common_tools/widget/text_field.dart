@@ -30,6 +30,7 @@ Widget myPassTextField(
 Widget myRecTextField(
     String hint, TextEditingController myController, double border) {
   return TextFormField(
+    style: TextStyle(color: Colors.green),
     controller: myController,
     keyboardType: TextInputType.emailAddress,
     autofocus: false,
